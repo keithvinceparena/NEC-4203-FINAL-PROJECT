@@ -7,12 +7,11 @@
 ---
 
 ## Table of Contents
-- Objectives
-- Project Description
-- Materials and Components Used
-- Perspective (Pictures)
-- Wiring Diagram
-- Procedure
-- Results and Discussion
-- Reflection / Learning Summary
-- Appendix
+I. Objectives
+II. Project Description
+III. Materials and Components Used
+IV. Perspective (Pictures)
+V. Procedure
+VI. Results and Discussion
+VII. Reflection / Learning Summary
+VIII. Appendix
