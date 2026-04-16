@@ -221,18 +221,14 @@ The S.A.F.E.R System showed how a concept can evolve from a proposal into a work
 ## C. Program/Codes
 | ARDUINO CODES |
 |---------------------------------|
-|<img width="929" height="683" alt="image" src="https://github.com/user-attachments/assets/86f72307-7bba-4f15-b2cd-e23318a9b42e" />
+|<img width="935" height="712" alt="image" src="https://github.com/user-attachments/assets/131fdb15-a5f6-46cc-b893-5b6b47ebf15a" />
 <img width="929" height="652" alt="image" src="https://github.com/user-attachments/assets/6a952d5f-715a-4d07-a434-1134ca0327dc" />
 <img width="918" height="686" alt="image" src="https://github.com/user-attachments/assets/e2dfa80f-77cb-4fe6-9eab-698dbd715b81" />
 <img width="937" height="682" alt="image" src="https://github.com/user-attachments/assets/7f683aaa-b1bd-448d-84ed-8dab6f3b12f0" />
 <img width="943" height="676" alt="image" src="https://github.com/user-attachments/assets/5d4a5fc8-e5ce-462c-b35f-9aaf19195365" />
 <img width="942" height="653" alt="image" src="https://github.com/user-attachments/assets/e0dbd27f-1395-4a38-83a2-c5ecab5c1ecd" />
 <img width="940" height="682" alt="image" src="https://github.com/user-attachments/assets/f3c2cc35-9beb-40e4-a609-f0c75d94e86a" />
-<img width="925" height="620" alt="image" src="https://github.com/user-attachments/assets/5c75b09e-c733-4916-b35d-e59eccca4599" />
-
-
-
-|
+<img width="925" height="620" alt="image" src="https://github.com/user-attachments/assets/5c75b09e-c733-4916-b35d-e59eccca4599" />|
 
 | ESP32 CODES |
 |---------------------------------|
