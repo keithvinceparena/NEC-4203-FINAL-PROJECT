@@ -90,7 +90,7 @@ An **ESP32 microcontroller** is integrated to provide wireless communication. Wh
 # IV. PERSPECTIVE (PICTURES)
 | ISOMETRIC VIEW |
 |----------|
-| ISOMETRIC VIEW |
+| <img width="3632" height="2724" alt="IMG_3439" src="https://github.com/user-attachments/assets/4a99e34e-4747-444b-ae14-bed43c58871d" />|
 
 | TOP VIEW | BACK VIEW |
 |----------|------------|
@@ -98,10 +98,7 @@ An **ESP32 microcontroller** is integrated to provide wireless communication. Wh
 
  | SIDE VIEW | FRONT VIEW |
  |----------|----------------|
- |<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/be691359-acb6-4926-a38d-87227ade735a" />
-|<img width="200" height="150" alt="IMG_3443" src="https://github.com/user-attachments/assets/24e85bc1-4662-49b0-b152-6e321c5f4b36" />
-
-|
+ |<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/be691359-acb6-4926-a38d-87227ade735a" /> |<img width="200" height="150" alt="IMG_3443" src="https://github.com/user-attachments/assets/24e85bc1-4662-49b0-b152-6e321c5f4b36" />|
 
 
 # V. PROCEDURE
