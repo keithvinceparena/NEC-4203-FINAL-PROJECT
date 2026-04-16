@@ -8,10 +8,10 @@
 
 ## Table of Contents
 I. Objectives  
-II. Project Description
-III. Materials and Components Used
-IV. Perspective (Pictures)
-V. Procedure
-VI. Results and Discussion
-VII. Reflection / Learning Summary
-VIII. Appendix
+II. Project Description  
+III. Materials and Components Used  
+IV. Perspective (Pictures)  
+V. Procedure  
+VI. Results and Discussion  
+VII. Reflection / Learning Summary  
+VIII. Appendix  
