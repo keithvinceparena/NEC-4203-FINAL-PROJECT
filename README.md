@@ -7,7 +7,7 @@
 ---
 
 ## Table of Contents
-- [Objectives](NEC-4203-FINAL-PROJECT/README.md#objectives)
+- [Objectives](NEC-4203-FINAL-PROJECT/README.md#i.objectives)
 - [Project Description](NEC-4203-FINAL-PROJECT/README.md)
 - [Materials and Components Used](NEC-4203-FINAL-PROJECT/README.md)
 - [Perspective (Pictures)](NEC-4203-FINAL-PROJECT/README.md)
