@@ -16,12 +16,12 @@ This project uses:
 ---
 
 ## Table of Contents
-- [Objectives]
-- [Project Description]
-- [Materials and Components Used]
-- [Perspective (Pictures)]
-- [Wiring Diagram]
-- [Procedure]
-- [Results and Discussion]
-- [Reflection / Learning Summary]
-- [Appendix]
+- [Objectives](NEC-4203-FINAL-PROJECT/README.md)
+- [Project Description](NEC-4203-FINAL-PROJECT/README.md)
+- [Materials and Components Used](NEC-4203-FINAL-PROJECT/README.md)
+- [Perspective (Pictures)](NEC-4203-FINAL-PROJECT/README.md)
+- [Wiring Diagram](NEC-4203-FINAL-PROJECT/README.md)
+- [Procedure](NEC-4203-FINAL-PROJECT/README.md)
+- [Results and Discussion](NEC-4203-FINAL-PROJECT/README.md)
+- [Reflection / Learning Summary](NEC-4203-FINAL-PROJECT/README.md)
+- [Appendix](NEC-4203-FINAL-PROJECT/README.md)
