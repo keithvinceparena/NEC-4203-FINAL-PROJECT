@@ -214,18 +214,30 @@ The S.A.F.E.R System showed how a concept can evolve from a proposal into a work
 ## B. Wiring
 | WIRING OF A SAFER SYSTEM |
 |--------------------------|
-|<img width="400" height="300" alt="IMG_3458" src="https://github.com/user-attachments/assets/c78a7867-87f5-4c07-8bc8-b84a000a1b4b" />
-|
+|<img width="400" height="300" alt="IMG_3458" src="https://github.com/user-attachments/assets/c78a7867-87f5-4c07-8bc8-b84a000a1b4b" />|
 
 | WIRING DIAGRAM OF A SAFER SYSTEM |
 |--------------------------|
 |<img width="400" height="360" alt="image" src="https://github.com/user-attachments/assets/1df1e172-35e8-46e4-a1df-9d9a011f99f8" />|
 
-
-
-
-DISCLAIMER: The Wiring Diagram that I made doesn't have all the components because it is not available in TinkerCad
-
 ## C. Program/Codes
+| ARDUINO CODES |
+|---------------------------------|
+|<img width="400" height="402" alt="image" src="https://github.com/user-attachments/assets/da045791-a0c5-4871-990b-e6ef85b39b84" />|
+
+| ESP32 CODES |
+|---------------------------------|
+|<img width="1013" height="713" alt="image" src="https://github.com/user-attachments/assets/27a1ae3c-10b2-44ca-a4ba-0e6f6fc4613d" />
+<img width="931" height="652" alt="image" src="https://github.com/user-attachments/assets/79d922d3-89d6-4fa9-98b8-93d3040d5b47" />
+<img width="825" height="679" alt="image" src="https://github.com/user-attachments/assets/e2486110-82c8-4c38-ad40-e0d87b08ea0f" />
+<img width="933" height="686" alt="image" src="https://github.com/user-attachments/assets/825938b8-e34a-4a5a-90e9-b95f425b1f1c" />
+<img width="939" height="654" alt="image" src="https://github.com/user-attachments/assets/f32f6da4-668b-48bd-86bd-6f11a846467c" />
+<img width="935" height="680" alt="image" src="https://github.com/user-attachments/assets/60defbe8-30db-443b-874f-88f7689d539c" />
+<img width="923" height="624" alt="image" src="https://github.com/user-attachments/assets/51a5a492-9575-4edd-9321-544dc288e9e4" />
+<img width="939" height="510" alt="image" src="https://github.com/user-attachments/assets/41801975-dfe6-4378-b1ec-ea67300463c4" />|
+
+
+
+
 
 
