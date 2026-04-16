@@ -205,7 +205,15 @@ The S.A.F.E.R System showed how a concept can evolve from a proposal into a work
 # VIII. APPENDIX
 
 ## A. Block Diagram
+| BLOCK DIAGRAM OF A SAFER SYSTEM |
+|---------------------------------|
+|<img width="749" height="751" alt="image" src="https://github.com/user-attachments/assets/da045791-a0c5-4871-990b-e6ef85b39b84" />|
+
+
+
 ## B. Wiring Diagram
+
+
 ## C. Program/Codes
 
 
