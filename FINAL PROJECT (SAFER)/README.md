@@ -214,9 +214,14 @@ The S.A.F.E.R System showed how a concept can evolve from a proposal into a work
 ## B. Wiring
 | WIRING OF A SAFER SYSTEM |
 |--------------------------|
-|<img width="400" height="402" alt="image" src="https://github.com/user-attachments/assets/da045791-a0c5-4871-990b-e6ef85b39b84" />|
+|<img width="400" height="300" alt="IMG_3458" src="https://github.com/user-attachments/assets/c78a7867-87f5-4c07-8bc8-b84a000a1b4b" />
+|
 
-<img width="400" height="360" alt="image" src="https://github.com/user-attachments/assets/1df1e172-35e8-46e4-a1df-9d9a011f99f8" />
+| WIRING DIAGRAM OF A SAFER SYSTEM |
+|--------------------------|
+|<img width="400" height="360" alt="image" src="https://github.com/user-attachments/assets/1df1e172-35e8-46e4-a1df-9d9a011f99f8" />|
+
+
 
 
 DISCLAIMER: The Wiring Diagram that I made doesn't have all the components because it is not available in TinkerCad
