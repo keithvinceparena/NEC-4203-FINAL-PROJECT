@@ -242,7 +242,3 @@ The S.A.F.E.R System showed how a concept can evolve from a proposal into a work
 <img width="939" height="510" alt="image" src="https://github.com/user-attachments/assets/41801975-dfe6-4378-b1ec-ea67300463c4" />|
 
 
-
-
-
-
