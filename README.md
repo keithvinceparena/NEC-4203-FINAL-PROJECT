@@ -16,12 +16,12 @@ This project uses:
 ---
 
 ## Table of Contents
-- [Objectives](#objectives)
-- [Project Description](#project-description)
-- [Materials and Components Used](#materials-and-components-used)
-- [Perspective (Pictures)](#perspective-pictures)
-- [Wiring Diagram](#wiring-diagram)
-- [Procedure](#procedure)
-- [Results and Discussion](#results-and-discussion)
-- [Reflection / Learning Summary](#reflection--learning-summary)
-- [Appendix](#appendix)
+- [Objectives]
+- [Project Description]
+- [Materials and Components Used]
+- [Perspective (Pictures)]
+- [Wiring Diagram]
+- [Procedure]
+- [Results and Discussion]
+- [Reflection / Learning Summary]
+- [Appendix]
