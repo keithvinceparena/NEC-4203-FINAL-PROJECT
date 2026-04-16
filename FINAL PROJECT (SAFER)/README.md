@@ -91,8 +91,8 @@ An **ESP32 microcontroller** is integrated to provide wireless communication. Wh
 | TOP VIEW | FRONT VIEW | SIDE VIEW | ISOMETRIC VIEW |
 |-----|-----------|-------------|-------------|
 |<img width="200" height="150" alt="IMG_3444" src="https://github.com/user-attachments/assets/14e1362a-0820-4495-9af8-35f697f48db5" /> |<img width="200" height="150" alt="IMG_3447" src="https://github.com/user-attachments/assets/46b16103-661b-437f-b3a4-b5996461d70b" />
-|<img width="2654" height="3539" alt="IMG_3446" src="https://github.com/user-attachments/assets/ca106817-c136-45d3-980a-18bf6d0f814b" />
-|<img width="3632" height="2724" alt="IMG_3439" src="https://github.com/user-attachments/assets/90aad9f6-78c5-458c-a214-15f2f9863610" />
+|<img width="150" height="200" alt="IMG_3446" src="https://github.com/user-attachments/assets/ca106817-c136-45d3-980a-18bf6d0f814b" />
+|<img width="200" height="150" alt="IMG_3439" src="https://github.com/user-attachments/assets/90aad9f6-78c5-458c-a214-15f2f9863610" />
 |
 
 
