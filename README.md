@@ -7,7 +7,7 @@
 ---
 
 ## Table of Contents
-I. Objectives
+I. Objectives  
 II. Project Description
 III. Materials and Components Used
 IV. Perspective (Pictures)
