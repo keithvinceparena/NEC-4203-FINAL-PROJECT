@@ -31,7 +31,7 @@ To design and implement a smart and adaptive roadbreaker prototype that improves
 
 The **S.A.F.E.R System** stands for **Smart, Adaptive, and Flexi-Elevating Roadbreaker System**. It is a prototype traffic safety system designed to reduce overspeeding by making the roadbreaker respond only when necessary.
 
-The system works by placing **two IR sensors** along a fixed path. When a vehicle passes the first sensor and then the second sensor, the Arduino Uno measures the time difference and calculates the vehicle speed over a known distance. A **Grove Light Sensor** reads ambient brightness and determines whether the system is operating in day mode or night mode. This allows the speed limit threshold to adapt according to environmental conditions. The proposal describes this as a closed-loop traffic control approach that dynamically adjusts the roadbreaker mechanism based on speed and lighting conditions. :contentReference[oaicite:2]{index=2}
+The system works by placing **two IR sensors** along a fixed path. When a vehicle passes the first sensor and then the second sensor, the Arduino Uno measures the time difference and calculates the vehicle speed over a known distance. A **Grove Light Sensor** reads ambient brightness and determines whether the system is operating in day mode or night mode. This allows the speed limit threshold to adapt according to environmental conditions. The proposal describes this as a closed-loop traffic control approach that dynamically adjusts the roadbreaker mechanism based on speed and lighting conditions.
 
 The **Arduino Uno** acts as the primary controller. It receives data from the IR sensors and the light sensor, computes speed, compares the measured speed to the threshold, updates the display, and controls the servo motor. If the measured speed exceeds the limit, the **servo motor** elevates the roadbreaker to slow down the vehicle. If the speed is within the safe range, the roadbreaker remains flat.
 
@@ -41,9 +41,7 @@ A **16x2 LCD display with I2C** provides real-time system feedback such as:
 - safety messages
 - alert conditions
 
-An **ESP32 microcontroller** is integrated to provide wireless communication. When overspeeding is detected, the ESP32 sends an alert to a mobile device through Wi-Fi. The proposal identifies the major system elements as follows: inputs are the two IR sensors and the Grove Light Sensor; controllers are the Arduino Uno and ESP32; outputs are the servo motor, LCD display, and phone alert system. :contentReference[oaicite:3]{index=3}
-
-The block diagram in the proposal also shows the signal flow from the sensors to the Arduino Uno, then to the LCD, servo motor, ESP32, and finally to phone-based Wi-Fi alerts. :contentReference[oaicite:4]{index=4}
+An **ESP32 microcontroller** is integrated to provide wireless communication. When overspeeding is detected, the ESP32 sends an alert to a mobile device through Wi-Fi. The proposal identifies the major system elements as follows: inputs are the two IR sensors and the Grove Light Sensor; controllers are the Arduino Uno and ESP32; outputs are the servo motor, LCD display, and phone alert system.
 
 ---
 
@@ -90,6 +88,13 @@ The block diagram in the proposal also shows the signal flow from the sensors to
 ---
 
 # IV. PERSPECTIVE (PICTURES)
+| TOP VIEW | FRONT VIEW | SIDE VIEW | ISOMETRIC VIEW |
+|<img width="3759" height="2819" alt="IMG_3444" src="https://github.com/user-attachments/assets/14e1362a-0820-4495-9af8-35f697f48db5" /> |<img width="3794" height="2846" alt="IMG_3447" src="https://github.com/user-attachments/assets/46b16103-661b-437f-b3a4-b5996461d70b" />
+|<img width="2654" height="3539" alt="IMG_3446" src="https://github.com/user-attachments/assets/ca106817-c136-45d3-980a-18bf6d0f814b" />
+|<img width="3632" height="2724" alt="IMG_3439" src="https://github.com/user-attachments/assets/90aad9f6-78c5-458c-a214-15f2f9863610" />
+|
+
+
 
 # V. PROCEDURE
 
