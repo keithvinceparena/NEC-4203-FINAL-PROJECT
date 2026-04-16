@@ -5,7 +5,7 @@ The **S.A.F.E.R System** is a smart road safety prototype designed to detect veh
 
 The system is an Arduino-based closed-loop traffic control system that uses **two IR digital sensors** for vehicle detection and speed measurement, a **Grove Light Sensor** for day/night detection, an **Arduino Uno** as the main controller, an **ESP32** for wireless alerts, a **servo motor** for the roadbreaker mechanism, and a **16x2 LCD with I2C** for real-time output.
 
-<img width="1302" height="1020" alt="image" src="https://github.com/user-attachments/assets/088fb5e4-c893-4df0-a292-4aa9d6333444" />
+<img width="800" height="627" alt="image" src="https://github.com/user-attachments/assets/088fb5e4-c893-4df0-a292-4aa9d6333444" />
 
 
 ---
